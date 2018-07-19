@@ -10,7 +10,6 @@
 ### Tools  
 * Modelling Tool: [StarUML](http://staruml.io/), dùng để mở File .mdj 
 * IDE cho NodeJS + Web DEV (das Beste): [Webstorm](https://www.jetbrains.com/webstorm/)
-* Text Editor: [Atom](https://atom.io/)
 * Text Editor Option 2: [Visual Studio Code](https://code.visualstudio.com/)
 
 ### NodeJS learning resources
