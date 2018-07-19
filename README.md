@@ -4,9 +4,8 @@
 
  
 ### Thư mục:
- - infos
  - documents
- - src
+ - pictures
 
 ### Tools  
 * Modelling Tool: [StarUML](http://staruml.io/), dùng để mở File .mdj 
