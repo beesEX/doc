@@ -1,9 +1,8 @@
 
-# ctp-research
-### Cryptocurrency Trading Platform - beesEX (sàn giao dịch những con ong, không phải bi :-))
+# beesEX document store
 
  
-### Thư mục:
+### Folder:
  - documents
  - pictures
 
@@ -15,3 +14,4 @@
 ### NodeJS learning resources
 * 10 wichtige Konzepte zu verstehen bei Arbeiten mit NodeJS: [10-NodeJS-Konzepte](https://www.infoworld.com/article/3196070/node-js/10-javascript-concepts-nodejs-programmers-must-master.html) 
 * [NodeJS Best Practices](https://github.com/i0natan/nodebestpractices)
+* [Understand Promises before start using asyn/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8)
